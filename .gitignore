@@ -1,0 +1,4 @@
+config.json
+gnews_test.json
+__pycache__/
+*.pyc
